@@ -79,21 +79,17 @@ TOP SIX BY TOTAL SOLD:
 
 The overall market trend aligns with the top six postcodes, where total property sales predominantly peak in the first and last quarters of the year. This pattern reflects cyclical buyer demand and seasonal investment behaviours.
 
-TOP SIX BY TOTAL SOLD PRICE:
-1.	2602 (2603 SOLD) ($1,810,955,930)
-2.	2615 (3566 SOLD) ($1,805,156,968)
-3.	2913 (2558 SOLD) ($1,507,706,484)
-4.	2914 (1972 SOLD) ($1,229,405,546)
-5.	2611 (1864 SOLD) ($1,196,958,348)
-6.	2905 (2259 SOLD) ($1,142,556,274)
+TOP TEN BY TOTAL SOLD PRICE:
 
-TOP SIX BY AVERAGE PRICE:
-1.	2618 (9 SOLD) ($1,081,111)
-2.	2603 (805 SOLD) ($950,686)
-3.	2600 (634 SOLD) ($885,978)
-4.	2612 (1210 SOLD) ($732,252)
-5.	2605 (771 SOLD) ($684,642)
-6.	2604 (2259 SOLD) ($652,484)
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/2c1b21df-f37f-4746-a50b-89939e404e64" />
+
+
+
+TOP TEN BY AVERAGE PRICE:
+
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/0d676892-ee7f-4dfd-b99f-bd1a1da56374" />
+
+
 
 The low number of properties sold combined with a high average price indicates that these postcodes are premium property areas. These markets are characterized by exclusivity, strong demand, and high-value real estate with superior amenities, prime locations, and investment stability.
 
