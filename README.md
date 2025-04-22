@@ -1,11 +1,20 @@
-# property_sales-sql-and-excel
+# property_sales-sql-and-Tableau
 
 OBJECTIVE 
 
 Which date corresponds to the highest number of sales and the lowest?
 
+DASHBOARD OF TOTAL SALES:
+
+<img width="824" alt="image" src="https://github.com/user-attachments/assets/d7d8173b-7df5-4919-909e-fe7e1ea647e8" />
+
 What are highest the performing postcodes?
-  
+
+DASHBOARD OF SALES DISTRIBUTION BY POST_CODE:
+
+<img width="820" alt="image" src="https://github.com/user-attachments/assets/ebe8dc96-0e57-4175-82f2-851d8d61ed17" />
+
+
 Market Growth (2007–2017):
 
 •	Total sales surged by 310.93% in 2008, reflecting strong early growth.
